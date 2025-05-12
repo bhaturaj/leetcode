@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhaturaj/leetcode/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/bhaturaj/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/bhaturaj/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -32,10 +33,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/bhaturaj/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/bhaturaj/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhaturaj/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/bhaturaj/leetcode/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/bhaturaj/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
