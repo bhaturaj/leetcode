@@ -3,7 +3,6 @@ class Solution {
     if (s.isEmpty())
       return "";
 
-    // (start, end) indices of the longest palindrome in s
     int[] indices = {0, 0};
 
     for (int i = 0; i < s.length(); ++i) {
@@ -16,12 +15,8 @@ class Solution {
           indices = indices2;
       }
     }
-
     return s.substring(indices[0], indices[1] + 1);
   }
-
-  // Returns the (start, end) indices of the longest palindrome extended from
-  // the substring s[i..j].
   private int[] extend(final String s, int i, int j) {
     for (; i >= 0 && j < s.length(); --i, ++j)
       if (s.charAt(i) != s.charAt(j))
