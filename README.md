@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhaturaj/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/bhaturaj/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/bhaturaj/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhaturaj/leetcode/tree/master/0342-power-of-four) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhaturaj/leetcode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/bhaturaj/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhaturaj/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/bhaturaj/leetcode/tree/master/1013-fibonacci-number) |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/bhaturaj/leetcode/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bhaturaj/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
