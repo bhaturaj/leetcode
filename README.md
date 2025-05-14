@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/bhaturaj/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhaturaj/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/bhaturaj/leetcode/tree/master/1013-fibonacci-number) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/bhaturaj/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhaturaj/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/bhaturaj/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/bhaturaj/leetcode/tree/master/1013-fibonacci-number) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/bhaturaj/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhaturaj/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/bhaturaj/leetcode/tree/master/0013-roman-to-integer) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/bhaturaj/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/bhaturaj/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/bhaturaj/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bhaturaj/leetcode/tree/master/0014-longest-common-prefix) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/bhaturaj/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhaturaj/leetcode/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/bhaturaj/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 <!---LeetCode Topics End-->
