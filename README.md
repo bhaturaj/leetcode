@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhaturaj/leetcode/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhaturaj/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/bhaturaj/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
@@ -71,4 +72,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhaturaj/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/bhaturaj/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bhaturaj/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
