@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/bhaturaj/leetcode/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhaturaj/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/bhaturaj/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0898-transpose-matrix](https://github.com/bhaturaj/leetcode/tree/master/0898-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/bhaturaj/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/bhaturaj/leetcode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/bhaturaj/leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
