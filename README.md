@@ -70,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhaturaj/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhaturaj/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhaturaj/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhaturaj/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/bhaturaj/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/bhaturaj/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhaturaj/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/bhaturaj/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bhaturaj/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/bhaturaj/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhaturaj/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/bhaturaj/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Greedy
 |  |
 | ------- |
