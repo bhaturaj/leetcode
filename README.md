@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhaturaj/leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/bhaturaj/leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/bhaturaj/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/bhaturaj/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhaturaj/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/bhaturaj/leetcode/tree/master/1013-fibonacci-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhaturaj/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhaturaj/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/bhaturaj/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhaturaj/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
