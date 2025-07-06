@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/bhaturaj/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/bhaturaj/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bhaturaj/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/bhaturaj/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/bhaturaj/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhaturaj/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/bhaturaj/leetcode/tree/master/1013-fibonacci-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/bhaturaj/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/bhaturaj/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bhaturaj/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/bhaturaj/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhaturaj/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
