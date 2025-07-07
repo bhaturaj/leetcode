@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/bhaturaj/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhaturaj/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bhaturaj/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/bhaturaj/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/bhaturaj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhaturaj/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/bhaturaj/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bhaturaj/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhaturaj/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhaturaj/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/bhaturaj/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/bhaturaj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhaturaj/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/bhaturaj/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/bhaturaj/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/bhaturaj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/bhaturaj/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/bhaturaj/leetcode/tree/master/0777-toeplitz-matrix) |
