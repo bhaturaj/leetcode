@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bhaturaj/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/bhaturaj/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/bhaturaj/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bhaturaj/leetcode/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/bhaturaj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhaturaj/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/bhaturaj/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhaturaj/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bhaturaj/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bhaturaj/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bhaturaj/leetcode/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
 | ------- |
