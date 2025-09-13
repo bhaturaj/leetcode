@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bhaturaj/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bhaturaj/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/bhaturaj/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/bhaturaj/leetcode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/bhaturaj/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/bhaturaj/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhaturaj/leetcode/tree/master/0342-power-of-four) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhaturaj/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/bhaturaj/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/bhaturaj/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/bhaturaj/leetcode/tree/master/0043-multiply-strings) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/bhaturaj/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Two Pointers
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bhaturaj/leetcode/tree/master/0043-multiply-strings) |
 | [0566-reshape-the-matrix](https://github.com/bhaturaj/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/bhaturaj/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/bhaturaj/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
